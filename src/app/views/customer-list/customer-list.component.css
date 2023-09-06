@@ -1,0 +1,13 @@
+.actions-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 3rem;
+}
+
+.header-buttons-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
